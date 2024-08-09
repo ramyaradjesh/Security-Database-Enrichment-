@@ -1,7 +1,6 @@
 # Documentation for Vulnerability Database Project
 
 ## 1. Introduction
-
    This project focuses on building and enriching a vulnerability database by analyzing NIST vulnerability feeds for 2023 and 2024. The goal is to filter and store Java-related vulnerabilities, ensuring that our database provides accurate and timely information to security engineers.
 
 ## 2. Setup and Installation
