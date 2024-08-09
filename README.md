@@ -76,4 +76,3 @@
 
    - [NIST Vulnerability Data](https://nvd.nist.gov/)
    - [OSV Database](https://osv.dev/)
-   
